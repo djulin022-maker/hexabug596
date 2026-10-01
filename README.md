@@ -25,6 +25,7 @@ A 3D-printed 6-legged walking robot (hexapod) powered by a **Raspberry Pi Pico 2
 
 ## 📂 Project Logs & Syncing
 
-This repository automatically syncs with Hack Club:
+This repository automatically syncs with Hack Club:![Uploading IMG_20261001_172222.jpg…]()
+
 - `JOURNAL.md` - Engineering log and weekly session updates
 - `BOM.md` - Full itemized hardware Bill of Materials
